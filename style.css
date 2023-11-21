@@ -1,0 +1,14 @@
+line {
+  stroke: blue;
+  stroke-opacity: 2%;
+}
+
+line.origined {
+  stroke: green;
+  stroke-opacity: 50%;
+}
+
+line.destinationed {
+  stroke: magenta;
+  stroke-opacity: 50%;
+}
